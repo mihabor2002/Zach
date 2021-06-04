@@ -1,0 +1,17 @@
+generate_clowd
+(далее в окошке first.exe можно ввести желаемое количество точек , среднее значение по х и по у)
+change_sost
+matrx
+gist
+binary
+(в окошке first.exe ввести нужный alpha)
+wave
+k_sredn
+(в first.exe ввести желаемый k_sredn)
+k_sredn_yadr
+(ввести желаемые k и p)
+forel
+em_alg
+(ввести желаемый k)
+ierarch
+triang
