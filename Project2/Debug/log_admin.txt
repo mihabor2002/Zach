@@ -1,0 +1,2 @@
+zapros komandi generazii oblaka
+komanda vipolnena s mX = 0, mY = 0, sX = 1, sY = 1, n = 1090

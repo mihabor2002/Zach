@@ -1,0 +1,3 @@
+poluchen zapros na tekuschee sostoyanie polya
+poluchen zapros na vipolnenie programmi generazii polya s mX=0, mY = 0, sX = 1, sY = 1, n = 1090
+programma generazii polya vipolnena

@@ -1,0 +1,59 @@
+﻿  Administrator.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\HP\source\repos\Project2\Project2\field.h(80,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\field.h(104,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\create_sp.h(23,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\create_sp.h(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(154,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(160,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(164,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(168,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(184,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(186,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(201,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(205,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(209,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(213,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Administrator.cpp(199,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\HP\source\repos\Project2\Project2\Administrator.cpp(200,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Proxy.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\HP\source\repos\Project2\Project2\field.h(80,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\field.h(104,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\create_sp.h(23,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\create_sp.h(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(154,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(160,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(164,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(168,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(184,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(186,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(201,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(205,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(209,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(213,51): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\HP\source\repos\Project2\Project2\field.h(80,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\field.h(104,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\create_sp.h(23,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\create_sp.h(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(154,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(160,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(164,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(168,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(184,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(186,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(201,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(205,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(209,43): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Controller.h(213,51): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\Source.cpp(78,21): warning C4018: <: несоответствие типов со знаком и без знака
+  create_sp.cpp
+C:\Users\HP\source\repos\Project2\Project2\field.h(30,13): warning C4804: >: небезопасное использование типа "bool" в операции
+C:\Users\HP\source\repos\Project2\Project2\field.h(80,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\field.h(104,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\create_sp.h(23,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\HP\source\repos\Project2\Project2\create_sp.h(44,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Project2.vcxproj -> C:\Users\HP\source\repos\Project2\Debug\Project2.exe
